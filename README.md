@@ -12,8 +12,8 @@
 wind-power-forecast/
 ├── README.md
 ├── requirements.txt
-├── main.py                 # 主模型训练脚本（原 c4.py）
-├── c4_compare.py           # 对比实验脚本（原 c4 compare.py）
+├── main.py                 # 主模型训练脚本
+├── c4_compare.py           # 对比实验脚本
 └── c3_optuna_tuning.py     # Optuna 调参脚本
 ```
 
