@@ -19,7 +19,6 @@
 
 <img width="752" height="722" alt="初稿 drawio (1)" src="https://github.com/user-attachments/assets/4d090abd-fd90-48ed-90e2-1880f26c439d" />
 
-![GDE-IF Architecture](images/architecture.png)
 
 ## 📊 实验结果 (Results)
 
