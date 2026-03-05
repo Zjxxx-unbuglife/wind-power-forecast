@@ -56,8 +56,7 @@ python c9_plot_advanced_fix.py
 ```bibtex
 @article{YourName2024GDEIF,
   title={基于门控双专家与反转融合的超短期风电功率预测},
-  author={Your Name and Co-authors},
-  journal={Journal Name (Pending)},
-  year={2024}
+  author={zjxxx},
+  year={2026}
 }
 ```
