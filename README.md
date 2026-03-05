@@ -1,4 +1,4 @@
-# 🌬️ GDE-IF: 基于门控双专家与反转融合的���短期风电功率预测
+# 🌬️ GDE-IF: 基于门控双专家与反转融合的超短期风电功率预测
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-ee4c2c.svg)](https://pytorch.org/)
@@ -17,7 +17,8 @@
 
 ## 🏗️ 模型架构 (Architecture)
 
-*(建议在此处上传并插入我们之前用 draw.io 画的模型整体架构图)*
+<img width="752" height="722" alt="初稿 drawio (1)" src="https://github.com/user-attachments/assets/4d090abd-fd90-48ed-90e2-1880f26c439d" />
+
 ![GDE-IF Architecture](images/architecture.png)
 
 ## 📊 实验结果 (Results)
